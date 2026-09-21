@@ -6,8 +6,8 @@
   "scenes_per_layout": 4,
   "stations": 13,
   "resolution": 72,
-  "erase_fraction_max": 0.88,
+  "erase_fraction_max": 0.94,
   "locality": 0.45,
   "distinct_images": 3400,
-  "sha256": "74f718ab73232415e3a4a246fe03fda861246990e59422aba396878032c86bc1"
+  "sha256": "3169aade67e6b18dc2babb83644ce838fc7a30393c9811e6a4849ca5e8ccd55d"
 }
