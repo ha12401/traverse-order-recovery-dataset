@@ -162,7 +162,7 @@ def main() -> None:
         distinct_images=int(len({im.tobytes() for im in arrays["images"]})),
         sha256=digest,
     )
-    args.report.write_text(json.dumps(report, indent=2) + "\n")
+    args.report.write_text(json.dumps(report, indent=2) + "\n", newline="\n")
     print(json.dumps(report, indent=2))
 
 
