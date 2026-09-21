@@ -1,0 +1,13 @@
+{
+  "status": "GENERATED",
+  "seed": 20260921,
+  "scenes": 3400,
+  "layouts": 850,
+  "scenes_per_layout": 4,
+  "stations": 13,
+  "resolution": 72,
+  "erase_fraction_max": 0.88,
+  "locality": 0.45,
+  "distinct_images": 3400,
+  "sha256": "74f718ab73232415e3a4a246fe03fda861246990e59422aba396878032c86bc1"
+}
